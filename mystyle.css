@@ -5,3 +5,9 @@ h1 {
     font-style: italic;
     color: darkblue;
 }
+nav {
+    background-color: darkgoldenrod;
+}
+body {
+    background-color: darkgray;
+}
