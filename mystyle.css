@@ -2,15 +2,22 @@ p {
     background-color: chocolate;
 }
 h1 {
+    font-size: 3em;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     color: darkblue;
+    text-align: center;
 }
 nav {
     background-color: darkgoldenrod;
 }
 body {
-    background-color: darkgray;
+    border: crimson;
+    border-spacing: 10cm;
+    border-style: dotted;
+    background-color: whitesmoke;
+    padding: 100px;
+    margin: 50px;
 }
 .AsideParagraph
 {background-color: darkred;}
