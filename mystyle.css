@@ -7,9 +7,11 @@ h1 {
     font-style: italic;
     color: darkblue;
     text-align: center;
+    font-size: 40px;
 }
 nav {
     background-color: darkgoldenrod;
+    float: left;
 }
 body {
     border: crimson;
