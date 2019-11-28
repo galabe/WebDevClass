@@ -25,6 +25,22 @@ body {
 {background-color: darkred;}
 
 @keyframes myAnimation {
-    from {background-color: red;}
-    to {background-color: blue;}
+    from {color: red;}
+    to {color: blue;}
+    to {color: chartreuse;}
+    to {color: brown}
+
+}
+
+h1{
+    /*
+    animation: myAnimation 10s ease-in-out 0s linear infinite alternate-reverse;
+*/
+font-weight: bold;
+font-size: 5em;
+ animation-name: myAnimation;
+ animation-duration: 2s;
+ animation-iteration-count: infinite;
+
+
 }
