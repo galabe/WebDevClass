@@ -14,9 +14,9 @@ nav {
     float: left;
 }
 body {
-    border: crimson;
+    border: 0
     border-spacing: 10cm;
-    border-style: dotted;
+    border: style 0;
     background-color: whitesmoke;
     padding: 100px;
     margin: 50px;
