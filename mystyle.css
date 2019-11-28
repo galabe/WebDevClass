@@ -14,15 +14,15 @@ nav {
     float: left;
 }
 body {
-    border: crimson;
+    border: rgb(187, 107, 123);
     border-spacing: 10cm;
     border-style: dotted;
     background-color: whitesmoke;
-    padding: 100px;
+    padding: 10px;
     margin: 50px;
 }
 .AsideParagraph
-{background-color: darkred;}
+{background-color:gainsboro;}
 
 #GoToTop{
     position: fixed;
